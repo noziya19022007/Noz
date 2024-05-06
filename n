@@ -1,0 +1,6 @@
+git config --global user.name "My Name"
+git config --global user.email myEmail@example.com
+1
+2
+git config --global user.name "My Name"
+git config --global user.email myEmail@example.com
